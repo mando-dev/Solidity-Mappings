@@ -1,0 +1,2 @@
+# Solidity-Mappings
+The contract above shows how to create, update, and get values from a mapping ,Mapping is for storign collection of data, kinda like an array. In Solidity you cannot iterate througha mapping(unless u do extra code). It is used for fast lookups.  In soldiity a getter is a func that returns a value.  so in this contract it looks like the address/person/msg.sender is bascially paying himself a balance lol
